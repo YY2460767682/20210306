@@ -1,0 +1,5 @@
+git config –global user.name ‘ty’ 
+git config –global user.email ‘891673609@qq.com’
+
+！！！！！！！！！！！！！hosts添加一行52.74.223.119 github.com
+
